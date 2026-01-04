@@ -1,0 +1,112 @@
+[
+  {
+    "id": "market_1",
+    "nameEn": "Nashik APMC Market",
+    "nameMr": "नाशिक एपीएमसी बाजार",
+    "nameHi": "नासिक एपीएमसी बाजार",
+    "district": "Nashik",
+    "taluka": "Nashik",
+    "type": "APMC",
+    "lat": 20.0059,
+    "lng": 73.7906
+  },
+  {
+    "id": "market_2",
+    "nameEn": "Pune Market Yard",
+    "nameMr": "पुणे मार्केट यार्ड",
+    "nameHi": "पुणे मार्केट यार्ड",
+    "district": "Pune",
+    "taluka": "Pune",
+    "type": "APMC",
+    "lat": 18.5204,
+    "lng": 73.8567
+  },
+  {
+    "id": "market_3",
+    "nameEn": "Ahmednagar Market",
+    "nameMr": "अहमदनगर बाजार",
+    "nameHi": "अहमदनगर बाजार",
+    "district": "Ahmednagar",
+    "taluka": "Ahmednagar",
+    "type": "APMC",
+    "lat": 19.0948,
+    "lng": 74.7480
+  },
+  {
+    "id": "market_4",
+    "nameEn": "Aurangabad Krishi Utpanna Bazaar",
+    "nameMr": "औरंगाबाद कृषी उत्पन्न बाजार",
+    "nameHi": "औरंगाबाद कृषि उत्पादन बाजार",
+    "district": "Aurangabad",
+    "taluka": "Aurangabad",
+    "type": "APMC",
+    "lat": 19.8762,
+    "lng": 75.3433
+  },
+  {
+    "id": "market_5",
+    "nameEn": "Solapur Market Yard",
+    "nameMr": "सोलापूर मार्केट यार्ड",
+    "nameHi": "सोलापुर मार्केट यार्ड",
+    "district": "Solapur",
+    "taluka": "Solapur",
+    "type": "APMC",
+    "lat": 17.6599,
+    "lng": 75.9064
+  },
+  {
+    "id": "market_6",
+    "nameEn": "Kolhapur APMC",
+    "nameMr": "कोल्हापूर एपीएमसी",
+    "nameHi": "कोल्हापुर एपीएमसी",
+    "district": "Kolhapur",
+    "taluka": "Kolhapur",
+    "type": "APMC",
+    "lat": 16.7050,
+    "lng": 74.2433
+  },
+  {
+    "id": "market_7",
+    "nameEn": "Nagpur Market",
+    "nameMr": "नागपूर बाजार",
+    "nameHi": "नागपुर बाजार",
+    "district": "Nagpur",
+    "taluka": "Nagpur",
+    "type": "APMC",
+    "lat": 21.1458,
+    "lng": 79.0882
+  },
+  {
+    "id": "market_8",
+    "nameEn": "Jalgaon Market Yard",
+    "nameMr": "जळगाव मार्केट यार्ड",
+    "nameHi": "जलगांव मार्केट यार्ड",
+    "district": "Jalgaon",
+    "taluka": "Jalgaon",
+    "type": "APMC",
+    "lat": 21.0077,
+    "lng": 75.5626
+  },
+  {
+    "id": "market_9",
+    "nameEn": "Sangli Market",
+    "nameMr": "सांगली बाजार",
+    "nameHi": "सांगली बाजार",
+    "district": "Sangli",
+    "taluka": "Sangli",
+    "type": "APMC",
+    "lat": 16.8524,
+    "lng": 74.5815
+  },
+  {
+    "id": "market_10",
+    "nameEn": "Satara APMC",
+    "nameMr": "सातारा एपीएमसी",
+    "nameHi": "सतारा एपीएमसी",
+    "district": "Satara",
+    "taluka": "Satara",
+    "type": "APMC",
+    "lat": 17.6805,
+    "lng": 74.0183
+  }
+]
